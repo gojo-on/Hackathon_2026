@@ -38,6 +38,14 @@ nav input {
   margin-right: 12px;
   
 }
+.fill-hug {
+  width: 183px;
+  height: 40px;
+  background-color: rgba(194, 230, 110, 1);
+  border-radius: 14px;
+  text-align: center;
+  
+}
 
 .nav-btn {
   width: 104px;
@@ -53,3 +61,9 @@ nav input {
   margin-right: 12px;
   
 }
+
+.desctop-2 {
+    background-color: rgba(249, 244, 242, 1);
+    width: 670px;
+    height: 338px;
+  }
